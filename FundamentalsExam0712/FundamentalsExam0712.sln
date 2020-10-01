@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. EmailValidator", "01. EmailValidator\01. EmailValidator.csproj", "{8067776D-9A47-4774-97C1-D7F255E62E93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. InboxManager", "03. InboxManager\03. InboxManager.csproj", "{A750BBCC-E208-46EF-AAEC-D03F51C248D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8067776D-9A47-4774-97C1-D7F255E62E93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8067776D-9A47-4774-97C1-D7F255E62E93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8067776D-9A47-4774-97C1-D7F255E62E93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8067776D-9A47-4774-97C1-D7F255E62E93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A750BBCC-E208-46EF-AAEC-D03F51C248D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A750BBCC-E208-46EF-AAEC-D03F51C248D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A750BBCC-E208-46EF-AAEC-D03F51C248D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A750BBCC-E208-46EF-AAEC-D03F51C248D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F17E777-B9CD-4CA8-85EF-324C4397DE29}
+	EndGlobalSection
+EndGlobal

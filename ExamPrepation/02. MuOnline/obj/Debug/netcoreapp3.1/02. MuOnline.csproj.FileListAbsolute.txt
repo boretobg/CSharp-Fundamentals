@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+C:\Users\Bobby\source\repos\ExamPrepation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache

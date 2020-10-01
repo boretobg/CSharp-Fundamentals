@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.exe
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.deps.json
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.runtimeconfig.json
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.dll
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05. DigitsLettersAndOther.pdb
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.dll
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.pdb
+C:\Users\Bobby\source\repos\TextProcessingLab\05. DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05. DigitsLettersAndOther.genruntimeconfig.cache

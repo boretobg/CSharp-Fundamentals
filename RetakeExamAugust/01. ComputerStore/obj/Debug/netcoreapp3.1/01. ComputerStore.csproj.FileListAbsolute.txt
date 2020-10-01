@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.exe
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.deps.json
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.runtimeconfig.json
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.dll
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\bin\Debug\netcoreapp3.1\01. ComputerStore.pdb
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.dll
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.pdb
+C:\Users\Bobby\source\repos\RetakeExamAugust\01. ComputerStore\obj\Debug\netcoreapp3.1\01. ComputerStore.genruntimeconfig.cache

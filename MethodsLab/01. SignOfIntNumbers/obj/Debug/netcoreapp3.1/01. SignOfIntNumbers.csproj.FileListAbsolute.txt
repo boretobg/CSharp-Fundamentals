@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.exe
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.deps.json
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.dll
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\bin\Debug\netcoreapp3.1\01. SignOfIntNumbers.pdb
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.dll
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.pdb
+C:\Users\Bobby\source\repos\MethodsLab\01. SignOfIntNumbers\obj\Debug\netcoreapp3.1\01. SignOfIntNumbers.genruntimeconfig.cache

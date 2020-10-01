@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3VVMhUu7qQcusuhT28IjHoKUrloVUOzsve0vglDMNhSgyrFjy9I+A7ncuFCM058o7b4akWDE1dxsyGnpjNs1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsExercise\\05. AddAndSubtract\\05. AddAndSubtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QYZmxRdvJCNyJbpZxtprhTrUeLQM5PQJ7UrSE8KrHx6QfJ89ppT+thcT8cvLP5tQpn7AbRLmAoWsfvm+pqVuwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\FundamentalsOnlineMidExam\\01.  SoftUniReception\\01.  SoftUniReception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

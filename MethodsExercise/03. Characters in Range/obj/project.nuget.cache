@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KVaHx2pqpzSzvN7e8vOwS92+8+QNmb4DhoorCBBsTjhDRrd2n5i3oqWO0Rb7sTVEXcuT/9LA8qkNWBAeyyDR3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsExercise\\03. Characters in Range\\03. Characters in Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

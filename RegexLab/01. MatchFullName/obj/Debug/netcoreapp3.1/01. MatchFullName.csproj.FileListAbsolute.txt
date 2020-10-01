@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.exe
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.deps.json
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.runtimeconfig.json
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.dll
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\bin\Debug\netcoreapp3.1\01. MatchFullName.pdb
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.dll
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.pdb
+C:\Users\Bobby\source\repos\RegexLab\01. MatchFullName\obj\Debug\netcoreapp3.1\01. MatchFullName.genruntimeconfig.cache

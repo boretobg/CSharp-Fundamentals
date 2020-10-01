@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.exe
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.1\PrintAndSum.genruntimeconfig.cache

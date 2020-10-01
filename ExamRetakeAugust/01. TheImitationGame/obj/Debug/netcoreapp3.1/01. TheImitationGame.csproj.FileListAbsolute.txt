@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.exe
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.deps.json
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.runtimeconfig.json
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.dll
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\bin\Debug\netcoreapp3.1\01. TheImitationGame.pdb
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.dll
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.pdb
+C:\Users\Bobby\source\repos\ExamRetakeAugust\01. TheImitationGame\obj\Debug\netcoreapp3.1\01. TheImitationGame.genruntimeconfig.cache

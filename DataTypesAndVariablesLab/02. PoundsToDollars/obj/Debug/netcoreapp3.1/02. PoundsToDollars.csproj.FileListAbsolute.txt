@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\bin\Debug\netcoreapp3.1\02. PoundsToDollars.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\02. PoundsToDollars\obj\Debug\netcoreapp3.1\02. PoundsToDollars.genruntimeconfig.cache

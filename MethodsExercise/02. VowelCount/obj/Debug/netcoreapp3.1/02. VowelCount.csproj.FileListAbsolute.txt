@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.exe
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.deps.json
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.runtimeconfig.json
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.dll
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\bin\Debug\netcoreapp3.1\02. VowelCount.pdb
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.dll
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.pdb
+C:\Users\Bobby\source\repos\MethodsExercise\02. VowelCount\obj\Debug\netcoreapp3.1\02. VowelCount.genruntimeconfig.cache

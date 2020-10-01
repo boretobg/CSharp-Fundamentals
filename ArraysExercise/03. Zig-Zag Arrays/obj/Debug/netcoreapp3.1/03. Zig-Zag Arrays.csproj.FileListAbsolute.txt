@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.exe
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.deps.json
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.json
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\bin\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.dll
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.pdb
+C:\Users\Bobby\source\repos\ArraysExercise\03. Zig-Zag Arrays\obj\Debug\netcoreapp3.1\03. Zig-Zag Arrays.genruntimeconfig.cache

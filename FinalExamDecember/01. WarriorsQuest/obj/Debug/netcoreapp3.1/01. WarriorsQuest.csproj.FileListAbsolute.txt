@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.exe
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.deps.json
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.runtimeconfig.json
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.dll
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\bin\Debug\netcoreapp3.1\01. WarriorsQuest.pdb
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.dll
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.pdb
+C:\Users\Bobby\source\repos\FinalExamDecember\01. WarriorsQuest\obj\Debug\netcoreapp3.1\01. WarriorsQuest.genruntimeconfig.cache

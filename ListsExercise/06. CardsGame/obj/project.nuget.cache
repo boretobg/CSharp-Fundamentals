@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CeTscWs9V3q3zmJrojqU22mDP4uExWdqFQLakMsAFGTwMxtyKjHOhDoz7Qqhv7brR8SO9URhubDcmGJNzf45kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ListsExercise\\06. CardsGame\\06. CardsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

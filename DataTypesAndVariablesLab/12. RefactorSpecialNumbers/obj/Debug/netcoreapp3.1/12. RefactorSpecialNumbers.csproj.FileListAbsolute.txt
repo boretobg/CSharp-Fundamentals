@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\12. RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12. RefactorSpecialNumbers.genruntimeconfig.cache

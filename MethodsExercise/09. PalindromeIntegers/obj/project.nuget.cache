@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pjs94wLBpvSH2o/1NBbzaVtQl/4EpUHOE3YWM5YAmPWERDnbETXb9Le+X4SQbdw/RyX5Ia2EqEq5ynR/w3HJVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsExercise\\09. PalindromeIntegers\\09. PalindromeIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

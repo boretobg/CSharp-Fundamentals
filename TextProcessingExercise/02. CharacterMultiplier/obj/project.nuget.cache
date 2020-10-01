@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YUZURUYQN1M6JoiY9qgWJOdCD+rOEFI1tlY3g3nvTKBfhLw7Jw5AxiSUkX2E9fwO5nAhC9dDaSGWztNvf3qIpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\TextProcessingExercise\\02. CharacterMultiplier\\02. CharacterMultiplier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

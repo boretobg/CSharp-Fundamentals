@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\bin\Debug\netcoreapp3.1\11. VolumeOfPyramid.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesLab\11. VolumeOfPyramid\obj\Debug\netcoreapp3.1\11. VolumeOfPyramid.genruntimeconfig.cache

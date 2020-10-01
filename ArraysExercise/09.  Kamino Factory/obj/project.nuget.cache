@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8pFA8XtqdkKXZ5xLTFPZjBCAocV9U9NWprogjC5pYX4nJBbOzNXqlUg0dNa5woyO/abdqTADST7z/cCPZeqWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ArraysExercise\\09.  Kamino Factory\\09.  Kamino Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

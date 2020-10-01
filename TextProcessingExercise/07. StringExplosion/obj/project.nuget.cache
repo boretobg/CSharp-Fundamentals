@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Js7jAfXu3ZOlpevJ6aFXx0cx1NLEWKNEIAp5AEPrrmsPqqiwEgE7lvp0JdfwUXblZSa7AQmqw3GoA0ooD6wdzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\TextProcessingExercise\\07. StringExplosion\\07. StringExplosion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

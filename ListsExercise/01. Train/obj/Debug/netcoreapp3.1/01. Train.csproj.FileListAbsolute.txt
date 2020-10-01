@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.exe
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.deps.json
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.json
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\bin\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.dll
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.pdb
+C:\Users\Bobby\source\repos\ListsExercise\01. Train\obj\Debug\netcoreapp3.1\01. Train.genruntimeconfig.cache

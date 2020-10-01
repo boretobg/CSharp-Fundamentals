@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.exe
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.deps.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.runtimeconfig.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.dll
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\bin\Debug\netcoreapp3.1\01. Nikulden’sMeals.pdb
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.dll
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.pdb
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sMeals\obj\Debug\netcoreapp3.1\01. Nikulden’sMeals.genruntimeconfig.cache

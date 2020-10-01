@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\bin\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\03. Elevator\obj\Debug\netcoreapp3.1\03. Elevator.genruntimeconfig.cache

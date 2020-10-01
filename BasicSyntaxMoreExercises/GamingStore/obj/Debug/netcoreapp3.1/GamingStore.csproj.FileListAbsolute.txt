@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.exe
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\bin\Debug\netcoreapp3.1\GamingStore.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\GamingStore\obj\Debug\netcoreapp3.1\GamingStore.genruntimeconfig.cache

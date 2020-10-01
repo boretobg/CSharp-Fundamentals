@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1UYrqmbVNYOlNXppBml2jnZNsfvydTGIiyVxgQaq/kjs0QVamlrxxIY12r36MzkrCz53NVBNnm4fX/4uHML2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\RegexLab\\01. MatchFullName\\01. MatchFullName.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

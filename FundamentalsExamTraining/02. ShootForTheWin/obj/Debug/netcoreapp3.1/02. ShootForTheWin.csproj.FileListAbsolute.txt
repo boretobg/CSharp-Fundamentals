@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.exe
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.deps.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.dll
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\bin\Debug\netcoreapp3.1\02. ShootForTheWin.pdb
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.dll
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.pdb
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\02. ShootForTheWin\obj\Debug\netcoreapp3.1\02. ShootForTheWin.genruntimeconfig.cache

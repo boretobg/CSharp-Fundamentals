@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.exe
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.deps.json
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.dll
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\bin\Debug\netcoreapp3.1\01. EmailValidator.pdb
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.dll
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.pdb
+C:\Users\Bobby\source\repos\FundamentalsExam0712\01. EmailValidator\obj\Debug\netcoreapp3.1\01. EmailValidator.genruntimeconfig.cache

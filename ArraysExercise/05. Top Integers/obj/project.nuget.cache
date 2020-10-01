@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "32mx8NG8wrSjXZoT3oC24fm9RG2n+22+KXRl/qxsOWahi2zysQPhWKdWLprWb1XICCpnGVngUZ9hFqvc7UEzyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ArraysExercise\\05. Top Integers\\05. Top Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

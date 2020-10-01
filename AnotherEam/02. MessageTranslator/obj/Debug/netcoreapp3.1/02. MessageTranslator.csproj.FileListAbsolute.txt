@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.exe
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.deps.json
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.runtimeconfig.json
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.dll
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\bin\Debug\netcoreapp3.1\02. MessageTranslator.pdb
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.dll
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.pdb
+C:\Users\Bobby\source\repos\AnotherEam\02. MessageTranslator\obj\Debug\netcoreapp3.1\02. MessageTranslator.genruntimeconfig.cache

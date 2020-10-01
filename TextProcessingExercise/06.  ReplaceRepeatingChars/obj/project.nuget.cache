@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUbj+rMA/vLTm45cD6ygbB2jN2syta1eyFLqQEMUmv6KeAM3+AMUSQZy9E70TzLx/lU7i4aCwc3sAw+6Mrnwzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\TextProcessingExercise\\06.  ReplaceRepeatingChars\\06.  ReplaceRepeatingChars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

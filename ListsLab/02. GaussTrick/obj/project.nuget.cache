@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "njQk+CpL/39mBO9iRRdZt0G2TNhDwOgUlnuBqiIOrrNQtPh4IttNcaaH2xoTl5KLKA4hN5gDKnco+sl/PGZO7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ListsLab\\02. GaussTrick\\02. GaussTrick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.exe
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.deps.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.runtimeconfig.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.dll
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\bin\Debug\netcoreapp3.1\01. Nikulden’sCharity.pdb
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.dll
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.pdb
+C:\Users\Bobby\source\repos\AnotherEam\01. Nikulden’sCharity\obj\Debug\netcoreapp3.1\01. Nikulden’sCharity.genruntimeconfig.cache

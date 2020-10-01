@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.exe
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.deps.json
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.dll
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\bin\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.pdb
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.dll
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.pdb
+C:\Users\Bobby\source\repos\ListsLab\05. RemoveNegativesAndReverse\obj\Debug\netcoreapp3.1\05. RemoveNegativesAndReverse.genruntimeconfig.cache

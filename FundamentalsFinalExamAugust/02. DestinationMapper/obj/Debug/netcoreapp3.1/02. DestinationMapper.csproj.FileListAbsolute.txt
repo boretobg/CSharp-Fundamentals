@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.exe
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.deps.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.dll
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\bin\Debug\netcoreapp3.1\02. DestinationMapper.pdb
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.dll
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.pdb
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\02. DestinationMapper\obj\Debug\netcoreapp3.1\02. DestinationMapper.genruntimeconfig.cache

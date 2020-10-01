@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.exe
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.deps.json
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.runtimeconfig.json
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.dll
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\bin\Debug\netcoreapp3.1\blan.pdb
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.dll
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.pdb
+C:\Users\Bobby\source\repos\CourseIntroduction\blan\obj\Debug\netcoreapp3.1\blan.genruntimeconfig.cache

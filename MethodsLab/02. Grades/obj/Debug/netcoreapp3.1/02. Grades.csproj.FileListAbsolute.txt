@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.exe
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.deps.json
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.json
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\bin\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.dll
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.pdb
+C:\Users\Bobby\source\repos\MethodsLab\02. Grades\obj\Debug\netcoreapp3.1\02. Grades.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.exe
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.deps.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.runtimeconfig.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.dll
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\bin\Debug\netcoreapp3.1\01. DayOfWeek.pdb
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.dll
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.pdb
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\01. DayOfWeek\obj\Debug\netcoreapp3.1\01. DayOfWeek.genruntimeconfig.cache

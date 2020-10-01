@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\bin\Debug\netcoreapp3.1\01. IntegerOperations.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\01\obj\Debug\netcoreapp3.1\01. IntegerOperations.genruntimeconfig.cache

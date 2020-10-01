@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.exe
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.deps.json
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.runtimeconfig.json
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.dll
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\bin\Debug\netcoreapp3.1\03. SoftuniBarIncome.pdb
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.dll
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.pdb
+C:\Users\Bobby\source\repos\RegexExercise\03. SoftuniBarIncome\obj\Debug\netcoreapp3.1\03. SoftuniBarIncome.genruntimeconfig.cache

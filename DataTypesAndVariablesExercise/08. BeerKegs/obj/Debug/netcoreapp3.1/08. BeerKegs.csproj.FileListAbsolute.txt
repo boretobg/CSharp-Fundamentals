@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.exe
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.deps.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\bin\Debug\netcoreapp3.1\08. BeerKegs.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.dll
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.pdb
+C:\Users\Bobby\source\repos\DataTypesAndVariablesExercise\08. BeerKegs\obj\Debug\netcoreapp3.1\08. BeerKegs.genruntimeconfig.cache

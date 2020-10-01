@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.exe
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.deps.json
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.runtimeconfig.json
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.dll
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\bin\Debug\netcoreapp3.1\ArraysLab.pdb
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.dll
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.pdb
+C:\Users\Bobby\source\repos\ArraysLab\ArraysLab\obj\Debug\netcoreapp3.1\ArraysLab.genruntimeconfig.cache

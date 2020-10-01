@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.exe
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.deps.json
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.json
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\bin\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.dll
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.pdb
+C:\Users\Bobby\source\repos\MethodsLab\05. Orders\obj\Debug\netcoreapp3.1\05. Orders.genruntimeconfig.cache

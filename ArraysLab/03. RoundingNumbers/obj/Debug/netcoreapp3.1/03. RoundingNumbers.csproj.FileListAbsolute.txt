@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.exe
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.deps.json
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.dll
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\bin\Debug\netcoreapp3.1\03. RoundingNumbers.pdb
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.dll
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.pdb
+C:\Users\Bobby\source\repos\ArraysLab\03. RoundingNumbers\obj\Debug\netcoreapp3.1\03. RoundingNumbers.genruntimeconfig.cache

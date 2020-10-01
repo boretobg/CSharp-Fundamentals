@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.exe
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.deps.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.dll
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\bin\Debug\netcoreapp3.1\02. ArrayModifier.pdb
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.dll
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.pdb
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\02. ArrayModifier\obj\Debug\netcoreapp3.1\02. ArrayModifier.genruntimeconfig.cache

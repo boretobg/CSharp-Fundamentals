@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+e5Sp7Qj8SyiNuZxSxnCqArOgLDM9OzBVudG15jfK2IO9g2P4JWlh9diwyqD9Csv2g5+EBvJpX9R3FXEMQlLlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ObjectsAndClassesLab\\02. RandomNumber\\02. RandomNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

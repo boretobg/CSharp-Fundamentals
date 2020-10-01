@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.exe
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.deps.json
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.runtimeconfig.json
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.dll
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\bin\Debug\netcoreapp3.1\02. BossRysh.pdb
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.dll
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.pdb
+C:\Users\Bobby\source\repos\FinalExamDecember\02. BossRysh\obj\Debug\netcoreapp3.1\02. BossRysh.genruntimeconfig.cache

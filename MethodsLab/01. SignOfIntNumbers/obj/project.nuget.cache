@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XHEVMjyfWYvL1BMjSaeYN6Y0YlScFkVwOgUCgdQqJRdJppyzt57S7Q41Q66z7IOXrX4Ro1zsg5dv6wsmfZKA4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsLab\\01. SignOfIntNumbers\\01. SignOfIntNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

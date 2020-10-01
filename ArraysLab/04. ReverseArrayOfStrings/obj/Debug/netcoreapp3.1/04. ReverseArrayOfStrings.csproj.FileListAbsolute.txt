@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.exe
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.deps.json
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.dll
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\bin\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.pdb
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.dll
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.pdb
+C:\Users\Bobby\source\repos\ArraysLab\04. ReverseArrayOfStrings\obj\Debug\netcoreapp3.1\04. ReverseArrayOfStrings.genruntimeconfig.cache

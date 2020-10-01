@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lRKFjsT97bMiGSmhiBklvnZAlyrMSFdjbjeVycoJW/bLzOei1T4eMO+UOnG3SN7/DDHdoYO1/ZAV+a5eVfF/dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\AssociativeArraysExercise\\07. StudentAcademy\\07. StudentAcademy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

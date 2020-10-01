@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.exe
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.deps.json
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.runtimeconfig.json
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.dll
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\bin\Debug\netcoreapp3.1\02. OddOcurrances.pdb
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.dll
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.pdb
+C:\Users\Bobby\source\repos\AssociativeArraysLab\02. OddOcurrances\obj\Debug\netcoreapp3.1\02. OddOcurrances.genruntimeconfig.cache

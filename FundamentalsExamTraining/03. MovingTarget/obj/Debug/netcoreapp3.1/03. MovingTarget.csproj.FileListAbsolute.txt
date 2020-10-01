@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.exe
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.deps.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.dll
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\bin\Debug\netcoreapp3.1\03. MovingTarget.pdb
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.dll
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.pdb
+C:\Users\Bobby\source\repos\FundamentalsExamTraining\03. MovingTarget\obj\Debug\netcoreapp3.1\03. MovingTarget.genruntimeconfig.cache

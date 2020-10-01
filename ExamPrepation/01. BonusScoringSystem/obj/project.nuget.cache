@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rqwv51kwQSKWrBWyyd1MuHH+GdtYYhoMUgCbpLJfVlCw0j1rGg125RZc+Whr9sX2Bv96npQfIpiCPx2k8olTeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ExamPrepation\\01. BonusScoringSystem\\01. BonusScoringSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

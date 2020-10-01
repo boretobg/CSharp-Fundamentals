@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.exe
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.deps.json
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.runtimeconfig.json
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.dll
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\bin\Debug\netcoreapp3.1\08. VehicleCatalog.pdb
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.dll
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.pdb
+C:\Users\Bobby\source\repos\ListsExercise\08. VehicleCatalog\obj\Debug\netcoreapp3.1\08. VehicleCatalog.genruntimeconfig.cache

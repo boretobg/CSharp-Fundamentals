@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.exe
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.deps.json
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.runtimeconfig.json
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.dll
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\bin\Debug\netcoreapp3.1\04. TextFilter.pdb
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.dll
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.pdb
+C:\Users\Bobby\source\repos\TextProcessingLab\04. TextFilter\obj\Debug\netcoreapp3.1\04. TextFilter.genruntimeconfig.cache

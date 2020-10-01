@@ -1,0 +1,12 @@
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.exe
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.1\TriangleOfNumbers.genruntimeconfig.cache

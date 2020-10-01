@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "agdH2dC0Nmhh1pTq9udv+ar4m0kcE9uB3vpT4MXOVVPhlIaU0vImznuFchc+Aeobryph+MJN1FgfWA93slncug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ArraysLab\\05. SumEvenNumbers\\05. SumEvenNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

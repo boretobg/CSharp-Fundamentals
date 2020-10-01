@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ouamv1rzc920NDfIra75242rvpYNOlsZlye5jx/3PvVyu0TS3CcqZHOVjcu7fDfHeO0PV+RHyrdUjM79mGem0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsLab\\09. GreaterOfTwoValues\\09. GreaterOfTwoValues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

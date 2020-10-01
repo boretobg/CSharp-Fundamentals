@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.exe
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\bin\Debug\netcoreapp3.1\SortNumbers.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\SortNumbers\obj\Debug\netcoreapp3.1\SortNumbers.genruntimeconfig.cache

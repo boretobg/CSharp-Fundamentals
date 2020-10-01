@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.exe
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.deps.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.dll
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\bin\Debug\netcoreapp3.1\03. PlantDiscovery.pdb
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.dll
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.pdb
+C:\Users\Bobby\source\repos\FundamentalsFinalExamAugust\03. PlantDiscovery\obj\Debug\netcoreapp3.1\03. PlantDiscovery.genruntimeconfig.cache

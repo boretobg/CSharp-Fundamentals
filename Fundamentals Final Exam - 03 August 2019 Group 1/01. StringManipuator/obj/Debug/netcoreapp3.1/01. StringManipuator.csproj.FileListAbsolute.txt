@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.exe
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.deps.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.runtimeconfig.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.dll
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\bin\Debug\netcoreapp3.1\01. StringManipuator.pdb
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.dll
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.pdb
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\01. StringManipuator\obj\Debug\netcoreapp3.1\01. StringManipuator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\BasicSyntaxConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache

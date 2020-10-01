@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.exe
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.deps.json
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.runtimeconfig.json
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.dll
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\bin\Debug\netcoreapp3.1\04. CaesarCipher.pdb
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.dll
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.pdb
+C:\Users\Bobby\source\repos\TextProcessingExercise\04. CaesarCipher\obj\Debug\netcoreapp3.1\04. CaesarCipher.genruntimeconfig.cache

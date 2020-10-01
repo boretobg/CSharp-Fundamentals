@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fd/g/UrmrFicQB6VFtTi9LnEm8fTwiHYROiCvctmknB17jFGuHarsDocg65xbwIogIwnNL7TaeUShk/b7+/y0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsLab\\07. RepeatString\\07. RepeatString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

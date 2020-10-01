@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "czKKfsRQM5dGF/Z4ETaIcIArb6/IXheoFui0qbVs7bGb6Sfolw9spr0uVvjx+3/tGkhfnCU4BDdTwEI6yT2xmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\FundamentalsExamRetakeApril\\01. SecretChat\\01. SecretChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

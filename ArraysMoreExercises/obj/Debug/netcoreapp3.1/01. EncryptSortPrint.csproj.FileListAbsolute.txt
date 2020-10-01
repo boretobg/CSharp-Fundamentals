@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.exe
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.deps.json
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.runtimeconfig.json
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.dll
+C:\Users\Bobby\source\repos\ArraysMoreExercises\bin\Debug\netcoreapp3.1\01. EncryptSortPrint.pdb
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.dll
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.pdb
+C:\Users\Bobby\source\repos\ArraysMoreExercises\obj\Debug\netcoreapp3.1\01. EncryptSortPrint.genruntimeconfig.cache

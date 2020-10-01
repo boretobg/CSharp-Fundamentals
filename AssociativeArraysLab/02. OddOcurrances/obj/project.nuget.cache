@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kY5YN1La7NskfJSzppGTqJOY+K5Kbxzi/OJm/yTaKeFZS5vXk5bLHXoQky921w/Hdo/2Y9N3oQcliCmA4QaA/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\AssociativeArraysLab\\02. OddOcurrances\\02. OddOcurrances.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.exe
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.deps.json
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.json
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.dll
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\bin\Debug\netcoreapp3.1\04. ListOperations.pdb
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.dll
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.pdb
+C:\Users\Bobby\source\repos\ListsExercise\04. ListOperations\obj\Debug\netcoreapp3.1\04. ListOperations.genruntimeconfig.cache

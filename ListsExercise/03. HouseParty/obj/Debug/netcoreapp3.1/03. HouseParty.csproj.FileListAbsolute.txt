@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.exe
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.deps.json
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.runtimeconfig.json
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.dll
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\bin\Debug\netcoreapp3.1\03. HouseParty.pdb
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.dll
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.pdb
+C:\Users\Bobby\source\repos\ListsExercise\03. HouseParty\obj\Debug\netcoreapp3.1\03. HouseParty.genruntimeconfig.cache

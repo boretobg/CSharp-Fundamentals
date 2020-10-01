@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gU1tk9zTPQM5EqMxeqHVUpWMq5700GNWlYSHLc2hZVP97/tfJKVfzmTiPM8+HAOowPz2BJmT+q1zFPFTlGPXoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\TextProcessingExercise\\01. ValidUsernames\\01. ValidUsernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

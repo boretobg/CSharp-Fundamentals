@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9g2im9UNFE8p3WzkyV4vo559vYsGPm9yzfpsNRez8zLtG37+FcX0iJVaNchhtvn4LVCzo9g0C1ws0UftZrC7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ExamPrepation\\02. MuOnline\\02. MuOnline.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

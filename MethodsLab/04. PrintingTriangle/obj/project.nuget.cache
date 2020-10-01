@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jNBUOusTtiDtmsddPtGW46ZttZjshjwiWE5kDrmlaLA9ntVoESd7CJn9YCMnYw3zNuaWRoPJMmpn7fYY19ndEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\MethodsLab\\04. PrintingTriangle\\04. PrintingTriangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

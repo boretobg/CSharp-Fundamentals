@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dnjx4CQyl6g451/2tjjEfwiAgdinVxgtr6AOGNx/hBmvc+U2XUOcXgyEz5hd+FKyf28stNMPGSyBl0jPUVPKPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\ArraysExercise\\08. MagicSum\\08. MagicSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

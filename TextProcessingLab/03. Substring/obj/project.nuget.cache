@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0wJPr8vI56c9v4L0HQTzwRaRCjJImo20oIbco9ojjh0AoufVS7F3A+HCRl5Tt76GMOqrEr0sKS1p1K8lQ4q0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\TextProcessingLab\\03. Substring\\03. Substring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

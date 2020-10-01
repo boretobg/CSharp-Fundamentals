@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.exe
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.deps.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.runtimeconfig.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.dll
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\bin\Debug\netcoreapp3.1\03. MessagesManager.pdb
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.dll
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.pdb
+C:\Users\Bobby\source\repos\Fundamentals Final Exam - 03 August 2019 Group 1\03. MessagesManager\obj\Debug\netcoreapp3.1\03. MessagesManager.genruntimeconfig.cache

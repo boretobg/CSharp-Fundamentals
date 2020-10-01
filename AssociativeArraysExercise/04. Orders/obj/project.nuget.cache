@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rrtGyR/8ES+P/GQag9ehKXLRIpSUA9JSX7D/NuD19KH/9iscuXQ/gZX5sFlrm2jxJzc5YIG8DSwrh1of9eTgrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobby\\source\\repos\\AssociativeArraysExercise\\04. Orders\\04. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobby\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

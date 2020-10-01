@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.exe
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.deps.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.runtimeconfig.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.dll
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\bin\Debug\netcoreapp3.1\01.  SoftUniReception.pdb
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.dll
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.pdb
+C:\Users\Bobby\source\repos\FundamentalsOnlineMidExam\01.  SoftUniReception\obj\Debug\netcoreapp3.1\01.  SoftUniReception.genruntimeconfig.cache

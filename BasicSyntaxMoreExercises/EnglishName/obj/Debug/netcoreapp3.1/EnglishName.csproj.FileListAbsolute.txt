@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.exe
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.deps.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.runtimeconfig.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\bin\Debug\netcoreapp3.1\EnglishName.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.dll
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.pdb
+C:\Users\Bobby\source\repos\BasicSyntaxMoreExercises\EnglishName\obj\Debug\netcoreapp3.1\EnglishName.genruntimeconfig.cache

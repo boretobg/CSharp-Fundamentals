@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.exe
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.deps.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.runtimeconfig.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.dll
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\bin\Debug\netcoreapp3.1\04. Song.pdb
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.dll
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.pdb
+C:\Users\Bobby\source\repos\ObjectsAndClassesLab\04. Song\obj\Debug\netcoreapp3.1\04. Song.genruntimeconfig.cache

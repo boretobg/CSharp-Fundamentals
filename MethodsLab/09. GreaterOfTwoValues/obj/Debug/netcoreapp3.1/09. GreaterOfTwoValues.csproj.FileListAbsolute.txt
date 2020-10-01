@@ -1,0 +1,13 @@
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.exe
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.deps.json
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.runtimeconfig.json
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.dll
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\bin\Debug\netcoreapp3.1\09. GreaterOfTwoValues.pdb
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.dll
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.pdb
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.genruntimeconfig.cache
+C:\Users\Bobby\source\repos\MethodsLab\09. GreaterOfTwoValues\obj\Debug\netcoreapp3.1\09. GreaterOfTwoValues.csprojAssemblyReference.cache
